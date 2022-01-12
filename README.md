@@ -7,7 +7,7 @@
 
 Docker et Python doivent être installés sur vos machines :
 - https://docs.docker.com/engine/install/
-- https://www.python.org/downloads/
+- https://www.python.org/downloads/ 
 
 ### Récupération du dépôt git sur son compte
 
